@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="408def15cfe71d6d4b8c97578b95aec66c6e04cd">
+        <dex dex="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3d1204fae9357a96ca8fa70ff232ce362a2c3abb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_e996feab5dee07b860851ce6ad1d60f4a1e1aea9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_753b66486f15ef3d9bd34c9ee7327cee2ba32ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_4c540852cf2a6f73258996eed77ba0b0fd033e51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_a0559222fb8421da95644b7ba04b00752b7759a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="11b9f981ecb294af1e41743e6619989acaebdc64">
+        <dex dex="C:\Users\hpm\AndroidStudioProjects\ReadingWeatherOnline\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4cfe98206133a0c19ee75579b2722f501a6138e2\classes.dex" />
+    </item>
+
+</items>
